@@ -1,0 +1,21 @@
+body {
+  background-color: #DBDFFD;
+}
+hr{
+  height: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D61C4E;
+  border-width: 7px;
+  width: 10%;
+}
+h1{
+  font-family: bold serif;
+  font-style: normal;
+  color: #646FD4;
+}
+h3{
+  font-family: cursive;
+  font-style: italic;
+  color: #9BA3EB;
+}
